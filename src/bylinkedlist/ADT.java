@@ -1,6 +1,6 @@
 package bylinkedlist;
 
-public interface ADT<E> {
+public interface ADT {
     void add(Person data);
 
     void remove(Person data);
